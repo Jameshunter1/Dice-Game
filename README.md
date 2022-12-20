@@ -1,4 +1,4 @@
-Dice Game Project
+##Dice Game Project
 This project is a simple JavaScript application that demonstrates my skills in the language. It includes a few basic features and is intended as a portfolio piece.
 
 Getting Started
