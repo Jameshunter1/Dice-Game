@@ -5,5 +5,4 @@ Interactive Dice Game that allows you to roll the dice or hold your score. When 
 
 
 ![web-1](https://user-images.githubusercontent.com/90528783/186223386-a4d130ad-a1b7-4b92-953f-d475e41fe068.jpg)
-
-This project has been deployed using github pages and can be accessed via https://jameshunter1.github.io/Dice-Game/
+![pig-game-flowchart](https://user-images.githubusercontent.com/90528783/208732535-bd6d85a6-7a52-4da8-981e-c10473ac7e85.png)
